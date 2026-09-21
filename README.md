@@ -6,19 +6,19 @@ I'm interested in using data to understand problems, identify insights and suppo
 
 ## 📊 Data & Analytics Projects
 
-### GP Patient Data Management & AI System
+### [GP Patient Data Management & AI System](https://github.com/sharztech/gp-patient-data-management-ai)
 
 Python-based GP patient data management system exploring AI-assisted scheduling, performance insights and data management.
 
 **Python · Firebase · AI · Data Management**
 
-### COVID-19 Data Analysis & Streamlit Dashboard
+### [COVID-19 Data Analysis & Streamlit Dashboard](https://github.com/sharztech/covid-data-analysis)
 
 Self-guided analysis of UK COVID-19 data using an ETL-style workflow, with data cleaning, visualisation and an interactive Streamlit dashboard.
 
 **Python · Pandas · NumPy · Matplotlib · Streamlit**
 
-### Marketing Campaign Performance Analysis
+### [Marketing Campaign Performance Analysis](https://github.com/sharztech/marketing-campaign-performance-analysis)
 
 Business analytics project analysing multi-channel marketing campaign performance and identifying opportunities to grow new customer sales.
 
