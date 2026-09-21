@@ -4,7 +4,7 @@
 
 I'm interested in using data to understand problems, identify insights and support better decision-making. My background in software engineering has given me experience across data analysis, databases, Python development and software projects.
 
-## 📊 Data & Analytics Projects
+## Data & Analytics Projects
 
 ### [GP Patient Data Management & AI System](https://github.com/sharztech/gp-patient-data-management-ai)
 
@@ -24,15 +24,17 @@ Business analytics project analysing multi-channel marketing campaign performanc
 
 **Excel · Pivot Tables · Data Analysis · Business Insights**
 
-### 🔜 More Data Projects Coming Soon
+
+
+###  More Data Projects Coming Soon
 
 Exploring SQL, Power BI and data engineering through further practical projects.
 
-## 💻 Additional Projects
+## Additional Projects
 
 A selection of university and software development projects demonstrating my broader technical experience.
 
-## 🛠️ Technologies
+##  Technologies
 
 **Data & Analytics:** Python · SQL · Excel · Power BI · Pandas · NumPy · Matplotlib
 
