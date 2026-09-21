@@ -8,7 +8,7 @@ I'm interested in using data to understand problems, identify insights and suppo
 
 ### [GP Patient Data Management & AI System](https://github.com/sharztech/gp-patient-data-management-ai)
 
-Python-based GP patient data management system exploring AI-assisted scheduling, performance insights and data management.
+Python-based GP patient data management system exploring AI-assisted scheduling, performance insights and data management, developed for my final year project at university.
 
 **Python · Firebase · AI · Data Management**
 
